@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+      Ionic Timer
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  
+  <ion-card color="dark">
+    <img src="assets/img/sakura.jpg">
+    <ion-card-content align="center">
+      <h1>{{timer}}</h1>
+    </ion-card-content>
+  </ion-card>
+
+  <button ion-button block color="{{ default }}" (click)="startStop()">{{ startButton }}</button>
+</ion-content>
