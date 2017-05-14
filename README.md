@@ -13,8 +13,23 @@ http://twosquirrel.mints.ne.jp/?p=16984
 ## Installation
 
     $ git clone git@github.com:adash333/ionic3-timer.git
-    
-以下を参考に  
+    $ cd ionic3-timer
+    $ npm install @ionic/app-scripts@latest --save-dev
+    $ npm install
+
+imageは、  
+https://www.photo-ac.com/  
+などからダウンロードして、sakura.jpgという名前に変更して、  
+www/assets/img/ フォルダの中に保存。(img/　フォルダがなければ新規作成) 　　
+
+    $ ionic serve
+
+androidアプリの作成
+
+    $ ionic platform add android
+    $ ionic build android
+  
+(参考)  
 http://twosquirrel.mints.ne.jp/?p=15712  
 http://twosquirrel.mints.ne.jp/?p=15745  
 
