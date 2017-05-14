@@ -13,12 +13,12 @@ http://twosquirrel.mints.ne.jp/?p=16984
 ## Installation
 
     $ git clone git@github.com:adash333/ionic3-timer.git
-    $ cd ionic3-timer
+    $ cd ionic3-timer
     $ npm install @ionic/app-scripts@latest --save-dev
     $ npm install
 
 imageは、  
-https://www.photo-ac.com/  
+https://www.photo-ac.com/　  
 などからダウンロードして、sakura.jpgという名前に変更して、  
 www/assets/img/ フォルダの中に保存。(img/　フォルダがなければ新規作成) 　　
 
