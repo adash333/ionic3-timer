@@ -7,8 +7,9 @@ http://twosquirrel.mints.ne.jp/?p=16984
 
 ## Requirement
 
-- Node.js
-- Ionic CLI
+- Node.js 6.10.2
+- Ionic CLI 2.2.2
+
 
 ## Installation
 
