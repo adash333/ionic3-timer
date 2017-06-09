@@ -43,6 +43,12 @@ http://twosquirrel.mints.ne.jp/?p=15745
 発売日：2017年03月27日  
 https://www.amazon.co.jp/dp/B06XT19H2D/
 
+参考
+
+ionic-cli v3になり、コマンドが変更になっていますので、2017年5月以降は、以下のリンクを参考になさってください。
+
+http://tech.pjin.jp/blog/2017/05/23/ionic3-cli/
+
 ## Author
 
 adash333
