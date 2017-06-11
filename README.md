@@ -25,10 +25,14 @@ www/assets/img/ フォルダの中に保存。(img/　フォルダがなけれ�
 
     $ ionic serve
 
-androidアプリの作成
+androidアプリの作成(ionic-cli version2.x)
 
     $ ionic platform add android
     $ ionic build android
+
+androidアプリの作成(ionic-cli version3.x)
+    $ ionic cordova platform add android
+    $ ionic cordova build android
   
 (参考)  
 http://twosquirrel.mints.ne.jp/?p=15712  
