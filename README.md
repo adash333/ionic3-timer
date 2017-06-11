@@ -31,6 +31,7 @@ androidアプリの作成(ionic-cli version2.x)
     $ ionic build android
 
 androidアプリの作成(ionic-cli version3.x)
+
     $ ionic cordova platform add android
     $ ionic cordova build android
   
