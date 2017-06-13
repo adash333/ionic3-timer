@@ -19,7 +19,7 @@ http://twosquirrel.mints.ne.jp/?p=16984
     $ npm install
 
 imageは、  
-https://www.photo-ac.com/　  
+https://www.photo-ac.com　  
 などからダウンロードして、sakura.jpgという名前に変更して、  
 www/assets/img/ フォルダの中に保存。(img/　フォルダがなければ新規作成) 　　
 
