@@ -13,7 +13,7 @@ http://twosquirrel.mints.ne.jp/?p=16984
 
 ## Installation
 
-    $ git clone git@github.com:adash333/ionic3-timer.git
+    $ git clone https://github.com/adash333/ionic3-timer.git
     $ cd ionic3-timer
     $ npm install @ionic/app-scripts@latest --save-dev
     $ npm install
