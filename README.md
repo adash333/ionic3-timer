@@ -15,7 +15,6 @@ http://twosquirrel.mints.ne.jp/?p=16984
 
     $ git clone https://github.com/adash333/ionic3-timer.git
     $ cd ionic3-timer
-    $ npm install @ionic/app-scripts@latest --save-dev
     $ npm install
 
 imageは、  
@@ -26,12 +25,12 @@ www/assets/img/ フォルダの中に保存。(img/　フォルダがなけれ�
 
     $ ionic serve
 
-androidアプリの作成(ionic-cli version2.x)
+androidアプリの作成(ionic-cli version2.xの場合)
 
     $ ionic platform add android
     $ ionic build android
 
-androidアプリの作成(ionic-cli version3.x)
+androidアプリの作成(ionic-cli version3.xの場合、通常はこちら)
 
     $ ionic cordova platform add android
     $ ionic cordova build android
