@@ -35,11 +35,11 @@ androidアプリの作成(ionic-cli version3.x)
     $ ionic cordova platform add android
     $ ionic cordova build android
 
-エラーが出てうまくいかない場合は、エラーの内容をGoogle検索したり、
-http://qiita.com/567000/items/dc4917027cf060a3e2ea
-を参考になさったりしてください。
+エラーが出てうまくいかない場合は、エラーの内容をGoogle検索したり、  
+http://qiita.com/567000/items/dc4917027cf060a3e2ea  
+を参考になさったりしてください。  
   
-(参考)  
+(参考)   
 http://twosquirrel.mints.ne.jp/?p=15712  
 http://twosquirrel.mints.ne.jp/?p=15745  
 
