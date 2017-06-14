@@ -3,7 +3,8 @@
 ionic3によるタイマーアプリ
 
 詳細は以下
-http://twosquirrel.mints.ne.jp/dokuwiki/doku.php/github上のionic3アプリのインストール#github%E4%B8%8A%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%A6%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
+http://twosquirrel.mints.ne.jp/dokuwiki/doku.php/github上のionic3アプリのインストール
+
 http://twosquirrel.mints.ne.jp/?p=16984
 
 ## Requirement
